@@ -6,3 +6,4 @@ My deadly skills are :
 * Ruby
 * Python
 * Javascript
+* killing history using git rebase
